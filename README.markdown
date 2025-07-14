@@ -1,4 +1,4 @@
-# 🌟 **Sentiment Sleuth: Cracking the Emotional Code of Social Media!** 🌟
+# 🌟 **Sentiment Sleuth: Cracking the Emotional Code of Social Media!** 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python" alt="Python 3.11"/>
