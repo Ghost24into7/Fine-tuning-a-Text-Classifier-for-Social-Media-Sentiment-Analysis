@@ -124,8 +124,6 @@ print(predict_sentiment(text))  # Output: Positive
 - 🧠 **Multi-Class Sentiment**: Add a “Neutral” class for more nuance.
 - 📱 **Social Media Data**: Fine-tune on real tweets for domain-specific accuracy.
 - ⚙️ **Hyperparameter Tuning**: Play with LoRA settings or learning rates for even better results.
-- 🌐 **Deployment**: Build a web app or API for real-time analysis. Check out [xAI’s API](https://x.ai/api) for ideas!
-
 ---
 
 ## 🎯 **Why This Project is Epic**
@@ -135,7 +133,6 @@ print(predict_sentiment(text))  # Output: Positive
 
 ## 🙌 **Shoutouts & High-Fives**
 - **Hugging Face**: For the epic Transformers and Datasets libraries.
-- **xAI**: For inspiring us to push AI boundaries.
 - **You**: For reading this and joining the sentiment revolution!
 
 Now go decode the world’s emotions, one post at a time! 🌍✨
